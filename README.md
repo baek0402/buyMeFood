@@ -1,7 +1,6 @@
 # 알파코 주변 맛집 추천 웹사이트 (맛난거4조 BuyMeFood)
 
-<p align="center"><img src="![KakaoTalk_20230602_171707026](https://github.com/baek0402/buyMeFood/assets/84756243/6f8f6ec3-9d67-4d0d-bb0f-9a0b1ad5bcb0)
-" alt="로고" width="200px"></p>
+<p align="center"><img src="https://github.com/baek0402/buyMeFood/assets/84756243/6f8f6ec3-9d67-4d0d-bb0f-9a0b1ad5bcb0" alt="로고" width="200px"></p>
 
 <br>
 
@@ -26,22 +25,17 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/baek0402">@baek0402</a></td>
-        <td align="center"><a href=" https://github.com/Jordizzin">@Jordizzin</a></td>
+        <td align="center"><a href="https://github.com/Jordizzin">@Jordizzin</a></td>
         <td align="center"><a href="https://github.com/YEJIN325">@YEJIN325</a></td>
         <td align="center"><a href="https://github.com/kylesung0520">@kylesung0520</a></td>
         <td align="center"><a href="https://github.com/leebyeongseok">@leebeongseok</a></td>
     </tr>
     <tr>
-        <td align="center"><span> <img width="160px" src="![ㅇㅈ](https://github.com/baek0402/buyMeFood/assets/84756243/319a4d1f-3716-4356-8f4b-d267d59746ed)
-" ></span></td>
-        <td align="center"><span> <img width="160px" src="![ㅇㅈa](https://github.com/baek0402/buyMeFood/assets/84756243/37f2d941-508f-4097-83d4-a330c0de2ce2)
-" ></span></td>
-        <td align="center"><span> <img width="160px" src="![ㅇㅈb](https://github.com/baek0402/buyMeFood/assets/84756243/5411a8cf-0a48-4f62-8960-49182c83bd91)
-" ></span></td>
-        <td align="center"><span> <img width="160px" src="![ㅂㅅ](https://github.com/baek0402/buyMeFood/assets/84756243/785f104b-87af-49bd-a485-4a2c7e9b6393)
-" ></span></td>
-        <td align="center"><span> <img width="160px" src="![ㅊㅎ](https://github.com/baek0402/buyMeFood/assets/84756243/aca14750-36f7-4fe8-a5b8-a39a002fb0d0)
-" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/319a4d1f-3716-4356-8f4b-d267d59746ed" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/37f2d941-508f-4097-83d4-a330c0de2ce2" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/5411a8cf-0a48-4f62-8960-49182c83bd91" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/785f104b-87af-49bd-a485-4a2c7e9b6393" ></span></td>
+        <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/aca14750-36f7-4fe8-a5b8-a39a002fb0d0" ></span></td>
     </tr>
     <tr>
         <td>
@@ -98,7 +92,7 @@
 ## ⚙️ 기술 스택
 ### Environment
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white]
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ### Communication
