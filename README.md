@@ -20,8 +20,8 @@
         <td align="center">백연정</td>
         <td align="center">서예진A</td>
         <td align="center">서예진B</td>
+        <td align="center">성창호</td>
         <td align="center">이병석</td>
-        <td align="center">성창</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/baek0402">@baek0402</a></td>
@@ -34,8 +34,8 @@
         <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/319a4d1f-3716-4356-8f4b-d267d59746ed" ></span></td>
         <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/37f2d941-508f-4097-83d4-a330c0de2ce2" ></span></td>
         <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/5411a8cf-0a48-4f62-8960-49182c83bd91" ></span></td>
+       <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/aca14750-36f7-4fe8-a5b8-a39a002fb0d0" ></span></td>
         <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/785f104b-87af-49bd-a485-4a2c7e9b6393" ></span></td>
-        <td align="center"><span> <img width="160px" src="https://github.com/baek0402/buyMeFood/assets/84756243/aca14750-36f7-4fe8-a5b8-a39a002fb0d0" ></span></td>
     </tr>
     <tr>
         <td>
@@ -58,14 +58,14 @@
       </td>
       <td>
           <ul>
-              <li>검색결과페이지, 게시판 작성 페이지 구현</li>
-              <li>프로젝트 배포</li>
+              <li>게시판 페이지, 아이디/비밀번호 찾기 페이지 구현</li>
+              <li>맛집 리스트 크롤링,전반적인 JS 기능 보완</li>
           </ul>
       </td>
       <td>
           <ul>
-              <li>게시판 페이지, 아이디/비밀번호 찾기 페이지 구현</li>
-              <li>맛집 리스트 크롤링,전반적인 JS 기능 보완</li>
+              <li>검색결과페이지, 게시판 작성 페이지 구현</li>
+              <li>프로젝트 배포</li>
           </ul>
       </td>
     </tr>
@@ -130,8 +130,9 @@
 ### 크롤링
 1.  파이썬 셀레니움을 활용한 데이터 수집
     - 파이썬 셀레니움을 이용하여 네이버에서 맛집 데이터, 구글맵에서 맛집의 지도 링크 데이터를 크롤링하였습니다.
-    - 해당 데이터들을 JSON 형태로 로컬 스토리지에 저장하였습니다
+    - 해당 데이터들을 JSON 형태로 로컬 스토리지에 저장하였습니다.
 ### 로컬 스토리지
-1.  로컬 스토리지를 활용한 백단 구현
-    - 
+1.  로컬 스토리지 활용한 백단 구현
+    - 데이터를 브라우저에 반영구적으로 저장하며, 브라우저 종료 후 재시작해도 데이터가 남아있습니다.
+    - 개발자 도구 - Application탭의 Local Storage에서 데이터 확인이 가능합니다.
 
